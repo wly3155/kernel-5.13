@@ -1,0 +1,3 @@
+---- sampling_frequency Matches (2 in 2 files) ----
+iio_chan_info_postfix in industrialio-core.c (drivers\iio) : 	[IIO_CHAN_INFO_SAMP_FREQ] = "sampling_frequency",
+IIO_DEV_ATTR_SAMP_FREQ in sysfs.h (include\linux\iio) : 	IIO_DEVICE_ATTR(sampling_frequency, _mode, _show, _store, 0)
